@@ -45,7 +45,7 @@
 			</el-col>
 			<el-col :span="12" align="center">
 				<el-link href="https://blog.csdn.net/m0_51390969/article/details/134901481" target="_blank">
-					<el-card style="font-size: 32px">Vue3引入外部TTF字体参考这里</el-card>
+					<el-card style="font-size: 32px">Vue3引入外部TTF字体参考这</el-card>
 				</el-link>
 			</el-col>
 		</el-row>
